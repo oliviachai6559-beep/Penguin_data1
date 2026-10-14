@@ -12,3 +12,12 @@ gill-color: black=k,brown=n,buff=b,chocolate=h,gray=g, green=r,orange=o,pink=p,p
 overarching aim: investigating edible vs poisonous 
 Without knowing class can we use data of characteristics to determine if mushrooms are poisonous or edible 
 Is there a correlation between class (edibility) and habitat?
+
+
+graphs:
+piechart of class proportion of population
+heatmap of habitat and class
+bar chart of cap shape vs class
+bar chart of cap color vs class
+bar chart of odor vs class
+bar chart of habitat vs class
